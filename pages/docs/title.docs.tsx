@@ -11,8 +11,8 @@ export default function TitleDocs() {
             <meta name="description" content="Explore a collection of documentation for my Open Source projects authored by Muhammad Fiaz, covering various technology topics." />
 
             {/*These are the Keywords that will Boost your SEO in Ranking, so Make Sure to include and Update it up to your preference or don't mind this! 😴*/}
-            <meta name="keywords" content="Muhammad Fiaz, Documentation, Technology, Software, Guides, Tutorials, Developer" />
-            <title>Documentations | Muhammad Fiaz</title>
+            <meta name="keywords" content="Eshaan Bajpai, Documentation, Technology, Software, Guides, Tutorials, Developer" />
+            <title>Documentations | Eshaan Bajpai</title>
         </Head>
     );
 }

@@ -1,3 +1,3 @@
 # Authors
 
-- Muhammad Fiaz ([GitHub](https://github.com/muhammad-fiaz))
+- Eshaan Bajpai ([GitHub](https://github.com/ishaan29))
