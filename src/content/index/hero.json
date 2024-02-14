@@ -11,8 +11,8 @@
 	},
 
 	"header": {
-		"name": "Muhammad Fiaz.",
-		"usp": "Passionate Full Stack Developer."
+		"name": "Eshaan Bajpai",
+		"usp": "Passionate Backend Developer."
 	},
 
 	"paragraph": "From an early age, my fascination with programming and computers ignited a lifelong passion. Constantly learning and developing, I strive to make a profound impact through innovative solutions and visionary ideas, shaping the future with my unwavering commitment to technological advancement. ",
@@ -20,12 +20,12 @@
 	"buttons": {
 		"primary": {
 			"title": "Hire Me",
-			"url": "mailto:s.muhammadfiaz2003@gmail.com",
+			"url": "mailto:bajpaiishan29@gmail.com",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "https://www.linkedin.com/in/muhammad-fiaz-/",
+			"url": "https://www.linkedin.com/in/ishaanbajpai/",
 			"leaveSite": "true"
 		}
 	}
