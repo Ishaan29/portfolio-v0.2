@@ -1,0 +1,112 @@
+# Dependency directory
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Next.js specific files that should not be tracked
+.next/cache
+
+# Build output directory
+build/
+
+# Production build files
+.next/static
+
+# Exported static site
+out/
+
+# NPM debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Verce/Now deployment files
+.vercel
+.now
+
+# IDE and editor folders and files
+.idea
+*.swp
+*.swo
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.log
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Ignore package-lock.json and package.json
+package-lock.json
+package.json
+
+# Miscellaneous
+.DS_Store
+*.tgz
+# Dependency directory
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Next.js specific files that should not be tracked
+.next/cache
+
+# Build output directory
+build/
+
+# Production build files
+.next/static
+
+# Exported static site
+out/
+
+# NPM debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Verce/Now deployment files
+.vercel
+.now
+
+# IDE and editor folders and files
+.idea
+*.swp
+*.swo
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.log
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Ignore package-lock.json and package.json
+package-lock.json
+package.json
+
+# Miscellaneous
+.DS_Store
+*.tgz

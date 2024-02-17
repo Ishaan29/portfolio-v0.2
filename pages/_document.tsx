@@ -20,7 +20,7 @@ export default function Document() {
     {/*These are need for PWA*/}
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <meta name="apple-mobile-web-app-title" content="Muhammad Fiaz" />
+    <meta name="apple-mobile-web-app-title" content="Eshaan Bajpai" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
@@ -38,7 +38,7 @@ export default function Document() {
 
             <link rel="dns-prefetch" href="https://muhammadfiaz.com" />
 
-            <meta name="author" content="Muhammad Fiaz" />
+            <meta name="author" content="Eshaan Bajpai" />
 
             <link rel="alternate" hrefLang="en" href="https://muhammadfiaz.com" />
 
@@ -63,25 +63,25 @@ export default function Document() {
 
 
 
-            <meta property="og:title" content="Muhammad Fiaz" key="title" />
-            <meta property="og:description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
+            <meta property="og:title" content="Eshaan Bajpai" key="title" />
+            <meta property="og:description" content="Eshaan Bajpai - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
             <meta property="og:image" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
             <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
             <meta property="og:image:type" content="image/jpeg" />
-            <meta property="og:image:alt" content="Muhammad Fiaz" />
+            <meta property="og:image:alt" content="Eshaan Bajpai" />
             <meta property="og:image:width" content="300" />
             <meta property="og:image:height" content="300" />
             <meta property="og:url" content="https://muhammadfiaz.com" />
             <meta property="og:type" content="website" />
             <meta property="og:profile" content="https://github.com/muhammad-fiaz" />
-            <meta property="og:site_name" content="Muhammad Fiaz" />
+            <meta property="og:site_name" content="Eshaan Bajpai" />
              <meta property="og:locale" content="en_US" />
 
 
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:site" content="https://twitter.com/muhammadfiaz_" />
-            <meta name="twitter:title" content="Muhammad Fiaz" />
-            <meta name="twitter:description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
+            <meta name="twitter:title" content="Eshaan Bajpai" />
+            <meta name="twitter:description" content="Eshaan Bajpai - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
             <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
             <meta name="twitter:creator" content="https://twitter.com/muhammadfiaz_" />
             <meta name="twitter:domain" content="https://muhammadfiaz.com" />
@@ -97,28 +97,28 @@ export default function Document() {
 
             {/*These are the Keywords that will Boost your SEO in Ranking, so Make Sure to include and Update it up to your preference or don't mind this! 😴*/}
             <meta name="keywords" content="
-    Muhammad Fiaz, Full Stack Engineer, Full Stack Developer, DevOps Engineer, Software Engineer,
+    Eshaan Bajpai, Full Stack Engineer, Full Stack Developer, DevOps Engineer, Software Engineer,
     Programmer, Software Developer, Portfolio Website, Web Developer, Coding, Full Stack Development,
     Technology Enthusiast, Software Development, Computer Science, Programming Projects,
     Frontend Developer, Backend Developer, Software Development Portfolio, Student,
-    Full Stack Web Developer, Muhammad Fiaz Portfolio, Coding Projects, Tech Portfolio,
-    Web Development, DevOps Professional, Muhammad Fiaz Projects, Software Engineer Portfolio,
+    Full Stack Web Developer, Eshaan Bajpai Portfolio, Coding Projects, Tech Portfolio,
+    Web Development, DevOps Professional, Eshaan Bajpai Projects, Software Engineer Portfolio,
     IT Professional, Technology Projects, Software Development Engineer, Computer Programmer,
     Code Portfolio, Technology Student, Software Architect, Cloud Computing,
     DevOps Specialist, Software Engineering Projects, Coding Portfolio,
-    Full Stack Engineer Portfolio, Muhammad Fiaz Web Developer,
+    Full Stack Engineer Portfolio, Eshaan Bajpai Web Developer,
     Software Development Student, Coding Enthusiast, DevOps Portfolio, Programming Portfolio,
-    Muhammad Fiaz DevOps, IT Portfolio, Web Developer Portfolio, Muhammad Fiaz Developer,
-    Full Stack Engineer Muhammad Fiaz, Muhammad Fiaz Coding, Muhammad Fiaz IT,
-    Muhammad Fiaz Full Stack Developer, Muhammad Fiaz Software Engineer, Muhammad Fiaz DevOps Engineer,
-    Muhammad Fiaz Programming, Muhammad Fiaz Software Development, Muhammad Fiaz Coding Projects,
-    Muhammad Fiaz Tech Portfolio, Muhammad Fiaz IT Portfolio, Muhammad Fiaz Software Engineer Portfolio,
-    Muhammad Fiaz Web Developer Portfolio, Muhammad Fiaz DevOps Portfolio, Muhammad Fiaz Full Stack Engineer,
-    Muhammad Fiaz Full Stack Developer Portfolio, Muhammad Fiaz Coding Portfolio, Muhammad Fiaz Programming Portfolio,
-    Muhammad Fiaz Software Development Portfolio, Muhammad Fiaz Technology Projects,
-    Muhammad Fiaz Computer Science, Muhammad Fiaz Cloud Computing, Muhammad Fiaz IT Professional,
-    Muhammad Fiaz Technology Enthusiast, Muhammad Fiaz Computer Programmer, Muhammad Fiaz Code Portfolio,
-    Muhammad Fiaz Technology Student, Muhammad Fiaz Software Architect,fiaz,fiaz portfolio,fiaz devops,fiaz devops engineer,
+    Eshaan Bajpai DevOps, IT Portfolio, Web Developer Portfolio, Eshaan Bajpai Developer,
+    Full Stack Engineer Eshaan Bajpai, Eshaan Bajpai Coding, Eshaan Bajpai IT,
+    Eshaan Bajpai Full Stack Developer, Eshaan Bajpai Software Engineer, Eshaan Bajpai DevOps Engineer,
+    Eshaan Bajpai Programming, Eshaan Bajpai Software Development, Eshaan Bajpai Coding Projects,
+    Eshaan Bajpai Tech Portfolio, Eshaan Bajpai IT Portfolio, Eshaan Bajpai Software Engineer Portfolio,
+    Eshaan Bajpai Web Developer Portfolio, Eshaan Bajpai DevOps Portfolio, Eshaan Bajpai Full Stack Engineer,
+    Eshaan Bajpai Full Stack Developer Portfolio, Eshaan Bajpai Coding Portfolio, Eshaan Bajpai Programming Portfolio,
+    Eshaan Bajpai Software Development Portfolio, Eshaan Bajpai Technology Projects,
+    Eshaan Bajpai Computer Science, Eshaan Bajpai Cloud Computing, Eshaan Bajpai IT Professional,
+    Eshaan Bajpai Technology Enthusiast, Eshaan Bajpai Computer Programmer, Eshaan Bajpai Code Portfolio,
+    Eshaan Bajpai Technology Student, Eshaan Bajpai Software Architect,fiaz,fiaz portfolio,fiaz devops,fiaz devops engineer,
     fiaz devops portfolio,fiaz devops projects,fiaz devops specialist,fiaz devops professional,fiaz devops engineer portfolio,
     fiaz devops engineer projects,fiaz devops engineer specialist,fiaz devops engineer professional,fiaz devops engineer coding,
     fiaz devops engineer coding projects,fiaz devops engineer coding portfolio,fiaz devops engineer coding specialist,
@@ -138,7 +138,7 @@ export default function Document() {
                     __html: `{
           "@context": "https://schema.org",
           "@type": "Person",
-          "name": "Muhammad Fiaz",
+          "name": "Eshaan Bajpai",
           "url": "https://muhammadfiaz.com",
           "sameAs": [
             "https://github.com/muhammad-fiaz",
@@ -177,26 +177,26 @@ export default function Document() {
               },
               {
                 "@type": "Question",
-                "name": "Who is Muhammad Fiaz?",
+                "name": "Who is Eshaan Bajpai?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz is a Full Stack Developer specializing in Cloud, DevOps, ML/AI, and Design. He is passionate about programming, innovation, and shaping the future. With expertise in various technologies and a strong background in software development, Muhammad Fiaz strives to create innovative solutions and contribute to the advancement of technology. His skill set includes proficiency in cloud computing, DevOps practices, machine learning/artificial intelligence, and design principles. Muhammad Fiaz is dedicated to staying up-to-date with the latest industry trends and leveraging his knowledge to drive impactful and transformative projects."
+                  "text": "Eshaan Bajpai is a Full Stack Developer specializing in Cloud, DevOps, ML/AI, and Design. He is passionate about programming, innovation, and shaping the future. With expertise in various technologies and a strong background in software development, Eshaan Bajpai strives to create innovative solutions and contribute to the advancement of technology. His skill set includes proficiency in cloud computing, DevOps practices, machine learning/artificial intelligence, and design principles. Eshaan Bajpai is dedicated to staying up-to-date with the latest industry trends and leveraging his knowledge to drive impactful and transformative projects."
                 }
               },
               {
                 "@type": "Question",
-                "name": "Where is Muhammad Fiaz from?",
+                "name": "Where is Eshaan Bajpai from?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz is from Madurai, Tamil Nadu, India."
+                  "text": "Eshaan Bajpai is from Madurai, Tamil Nadu, India."
                 }
               },
               {
                 "@type": "Question",
-                "name": "What does Muhammad Fiaz do?",
+                "name": "What does Eshaan Bajpai do?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz leverages Cloud, DevOps, ML/AI, Design, and web/mobile apps to benefit people with optimized operations and user-friendly experiences."
+                  "text": "Eshaan Bajpai leverages Cloud, DevOps, ML/AI, Design, and web/mobile apps to benefit people with optimized operations and user-friendly experiences."
                 }
               }
             ]
